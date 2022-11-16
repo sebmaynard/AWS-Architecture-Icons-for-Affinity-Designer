@@ -3,7 +3,9 @@ AWS Architecture icons in SVG, packaged up as [Affinity Designer](https://affini
 
 ## How do I use these?
 
-Pull up the Assets window in Affinity Designer (Window -> Assets), click the burger menu (top right of that window) and click Import Assets.
+Pull up the Assets window in Affinity Designer (Window -> Assets), click the burger menu (top right of that window) and click Import Assets. Then pick the `.afassets` files from this repo.
+
+![Screenshot of the AWS Icons in Affinity Designer](https://github.com/sebmaynard/AWS-Architecture-Icons-for-Affinity-Designer/blob/main/Affinity%20screenshot.png?raw=true)
 
 ## How did you do it?
 
